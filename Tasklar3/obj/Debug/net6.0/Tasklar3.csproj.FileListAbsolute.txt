@@ -1,0 +1,14 @@
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.AssemblyInfoInputs.cache
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.AssemblyInfo.cs
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\bin\Debug\net6.0\Tasklar3.exe
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\bin\Debug\net6.0\Tasklar3.deps.json
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\bin\Debug\net6.0\Tasklar3.runtimeconfig.json
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\bin\Debug\net6.0\Tasklar3.dll
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\bin\Debug\net6.0\Tasklar3.pdb
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.dll
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\refint\Tasklar3.dll
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.pdb
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\Tasklar3.genruntimeconfig.cache
+C:\Users\ahmed\Desktop\zirzibil\Tasklar3\Tasklar3\obj\Debug\net6.0\ref\Tasklar3.dll
