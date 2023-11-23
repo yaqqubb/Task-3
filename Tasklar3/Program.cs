@@ -196,42 +196,71 @@
             int q123 = qq3 - qq1 - qq2;
             Console.WriteLine("Neticeleri bir-birinden cixiriq: "); Console.WriteLine(q123); Console.WriteLine(" ");
             Console.WriteLine("Alinan son cavabin ustune ucuncu ededin 7 faizini gelirik: ");  Console.WriteLine(q123 + (q3 * 7) / 100);
-
-                
-
-
-
+            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
             
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-           
-
-
             
-
-
             
+            
+            Console.WriteLine("Task 1 (III) "); Console.WriteLine(" ");
+            int nn1 = 5555;
+            Console.WriteLine("4 reqemli eded verilib: "); Console.WriteLine(nn1); Console.WriteLine(" ");
+            Console.WriteLine("Bu ededin evveline 7, sonuna is 8 reqemini artiririq: "); 
+            Console.WriteLine(nn1 * 10 + 700008 );
+            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
+
+            Console.WriteLine("Task 2 (II) "); Console.WriteLine(" ");
+            int nn2 = 666;
+            Console.WriteLine("3 reqemli eded verilib: "); Console.WriteLine(nn2); Console.WriteLine(" ");
+            Console.WriteLine("Bu ededin sonuna ozunu gelirik:");
+            Console.WriteLine(nn2 + nn2 * 1000);
+            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
