@@ -6,30 +6,18 @@
         {
             //4 reqemli eded verilib. Bu ededin eveline 7 reqemini , axirinada 8 reqemini artir.
 
-            Console.WriteLine("Task 1.(I)");  Console.WriteLine(" ");
-            Console.WriteLine("4 reqemli eded verilib:");
-
              int a = 9999;
-            Console.WriteLine(a); Console.WriteLine(" ");
             
-
+                        
+            Console.WriteLine("Task 1"); Console.WriteLine(" ");
+            Console.WriteLine("4 reqemli eded verilib:"); Console.WriteLine(a); Console.WriteLine(" ");
             Console.WriteLine("Bu ededin evveline 7, sonuna 8 reqemi artirdiq:");
-            Console.WriteLine("7" + a + "8");
-            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
-            
-
-            
-
-            Console.WriteLine("Task 1(II)"); Console.WriteLine(" ");
-            Console.WriteLine("4 reqemli eded verilib:");
-            Console.WriteLine(a);
-
-            Console.WriteLine(" ");
-            Console.WriteLine("Bu ededin evveline 7, sonuna 8 reqemi artirdiq:");
-
-
-
             Console.WriteLine(a * 10 + 700008);
+            
+
+
+
+            
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
             
             
@@ -41,7 +29,11 @@
             Console.WriteLine("3 reqemli eded verilib: ");  
             int c = 576;
             Console.WriteLine(c); Console.WriteLine(" ");
-            Console.WriteLine("Bu ededin sonuna hemin ededi yapisdiririq: "); Console.WriteLine(c*1000 + c); 
+            Console.WriteLine("Bu ededin sonuna hemin ededi yapisdiririq: "); Console.WriteLine(c * 1000 + c); 
+           
+            
+            
+            
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
 
 
@@ -55,8 +47,11 @@
             int d = 10000;
             Console.WriteLine("5 reqemli eded verilib:"); Console.WriteLine(d); Console.WriteLine(" ");
             Console.WriteLine("Evvelce bu ededin 18 faizini tapiriq: "); Console.WriteLine((d * 18) / 100); Console.WriteLine(" ");
-
-            Console.WriteLine("Sonra bu ededin 3 faizini tapiriq: "); Console.WriteLine((d * 3) / 100); Console.WriteLine(" ");
+            Console.WriteLine("Sonra bu ededin 3 faizini tapiriq: "); Console.WriteLine((d * 3) / 100); 
+           
+            
+            
+            
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
 
             //3 reqemli eded verilib.Bu ededin axirina 7 artir.Sonra cavabin 7 % tap;
@@ -65,7 +60,7 @@
             int e = 222;
             Console.WriteLine("3 reqemli eded verilib: "); Console.WriteLine(e); Console.WriteLine(" ");
             int f = e*10 + 7;
-            Console.WriteLine("Evvel bu ededin sonuna 7 artiririq: "); Console.WriteLine(f); Console.WriteLine(" ");
+            Console.WriteLine("Evvel bu ededin sonuna 7 artiririq:"); Console.WriteLine(f); Console.WriteLine(" ");
             Console.WriteLine("Sonra ise cavabimizin 7 faizini tapiriq: "); Console.WriteLine((f * 7)/ 100);
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
            
@@ -85,7 +80,7 @@
             int p = k*100 + 4000044;
             Console.WriteLine("Bu ededin evveline 4, sonuna ise 44 reqemi artiririq: "); Console.WriteLine(p); Console.WriteLine(" ");
             Console.WriteLine(" Alinan cavabin 44 faizini tapiriq: "); Console.WriteLine((p * 44) / 100);
-            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
+            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
 
             //  4 reqemli eded verilib. Bu ededin evvel 20%-ni , sonra ise cavabin 10% tap. Alinan cavabin kvadratini tap.
             
@@ -189,26 +184,13 @@
 
             int q123 = qq3 - qq1 - qq2;
             Console.WriteLine("Neticeleri bir-birinden cixiriq: "); Console.WriteLine(q123); Console.WriteLine(" ");
-            Console.WriteLine("Alinan son cavabin ustune ucuncu ededin 7 faizini gelirik: ");  Console.WriteLine(q123 + (q3 * 7) / 100);
+            Console.WriteLine("Alinan son cavabin ustune ucuncu ededin 7 faizini gelirik: "); Console.WriteLine(q123 + (q3 * 7) / 100);
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
             
             
             
             
-            Console.WriteLine("Task 1 (III) "); Console.WriteLine(" ");
-            int nn1 = 5555;
-            Console.WriteLine("4 reqemli eded verilib: "); Console.WriteLine(nn1); Console.WriteLine(" ");
-            Console.WriteLine("Bu ededin evveline 7, sonuna is 8 reqemini artiririq: "); 
-            Console.WriteLine(nn1 * 10 + 700008 );
-            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
-
-            Console.WriteLine("Task 2 (II) "); Console.WriteLine(" ");
-            int nn2 = 666;
-            Console.WriteLine("3 reqemli eded verilib: "); Console.WriteLine(nn2); Console.WriteLine(" ");
-            Console.WriteLine("Bu ededin sonuna ozunu gelirik:");
-            Console.WriteLine(nn2 + nn2 * 1000);
-            Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
-
+            
 
 
 
