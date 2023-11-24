@@ -9,7 +9,7 @@
             Console.WriteLine("Task 1.(I)");  Console.WriteLine(" ");
             Console.WriteLine("4 reqemli eded verilib:");
 
-             int a = 9000;
+             int a = 9999;
             Console.WriteLine(a); Console.WriteLine(" ");
             
 
@@ -24,16 +24,12 @@
             Console.WriteLine("4 reqemli eded verilib:");
             Console.WriteLine(a);
 
-
-
-           
-            int b = a + 781008;
             Console.WriteLine(" ");
             Console.WriteLine("Bu ededin evveline 7, sonuna 8 reqemi artirdiq:");
 
 
 
-            Console.WriteLine(b);
+            Console.WriteLine(a * 10 + 700008);
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
             
             
@@ -45,8 +41,7 @@
             Console.WriteLine("3 reqemli eded verilib: ");  
             int c = 576;
             Console.WriteLine(c); Console.WriteLine(" ");
-
-            Console.WriteLine("Bu ededin sonuna hemin ededi yapisdiririq: "); Console.WriteLine(c + 576000); 
+            Console.WriteLine("Bu ededin sonuna hemin ededi yapisdiririq: "); Console.WriteLine(c*1000 + c); 
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
 
 
@@ -67,11 +62,10 @@
             //3 reqemli eded verilib.Bu ededin axirina 7 artir.Sonra cavabin 7 % tap;
             Console.WriteLine("Task 4 "); Console.WriteLine(" ");
             
-            int e = 200;
+            int e = 222;
             Console.WriteLine("3 reqemli eded verilib: "); Console.WriteLine(e); Console.WriteLine(" ");
-            int f = e + 1807;
+            int f = e*10 + 7;
             Console.WriteLine("Evvel bu ededin sonuna 7 artiririq: "); Console.WriteLine(f); Console.WriteLine(" ");
-
             Console.WriteLine("Sonra ise cavabimizin 7 faizini tapiriq: "); Console.WriteLine((f * 7)/ 100);
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
            
@@ -88,7 +82,7 @@
             //4 reqemli eded verilib. Bu ededin evvelin 4 reqemi , axirina ise 44 ededini artir. Alinan cavabin 44 % tap.
             int k = 4444;
             Console.WriteLine("4 reqemli eded verilib: "); Console.WriteLine(k); Console.WriteLine(" ");
-            int p = k + 4440000;
+            int p = k*100 + 4000044;
             Console.WriteLine("Bu ededin evveline 4, sonuna ise 44 reqemi artiririq: "); Console.WriteLine(p); Console.WriteLine(" ");
             Console.WriteLine(" Alinan cavabin 44 faizini tapiriq: "); Console.WriteLine((p * 44) / 100);
             Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" "); Console.WriteLine(" ");
@@ -128,7 +122,7 @@
 
             int i = h + g;
             Console.WriteLine("Bu ededleri evvel toplayiriq:"); Console.WriteLine(i); Console.WriteLine(" ");
-            int w = i + 5450005;
+            int w = i*10 + 5000005;
             Console.WriteLine("Sonra alinan cavabin evveline ve axirina 5 artiriq:"); Console.WriteLine(w); Console.WriteLine(" ");
 
             Console.WriteLine("En son neticenin 5 faizini tapiriq: "); Console.WriteLine((w*5) / 100);
